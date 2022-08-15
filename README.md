@@ -19,6 +19,7 @@ Deliverable 3: A written report for the statistical analysis (README.md)
 ## Results
 ---
 - _Summary Statistics: June vs December Temperatures_
+
 ![june_vs_dec](june_vs_dec.png)
 
 
